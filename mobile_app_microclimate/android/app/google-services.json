@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482665616569",
+    "project_id": "microclamite",
+    "storage_bucket": "microclamite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482665616569:android:8757f18e75522bdeee7768",
+        "android_client_info": {
+          "package_name": "com.example.microclimate_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANz1XcRpFjESkUx4nHy7mVKXqO4_k0rMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

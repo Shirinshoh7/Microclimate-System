@@ -1,0 +1,11 @@
+{
+  "name": "🧪 Лаборатория",
+  "temp_min": 19.0,
+  "temp_max": 23.0,
+  "humidity_min": 0.0,
+  "humidity_max": 55.0,
+  "co2_max": 7000,
+  "co_max": 25,
+  "lux_min": 500.0,
+  "lux_max": 1000.0
+}

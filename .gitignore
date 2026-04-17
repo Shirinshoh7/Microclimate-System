@@ -1,0 +1,16 @@
+# Игнорируем папки виртуального окружения Python
+.venv_wsl/
+.venv/
+venv/
+env/
+__pycache__/
+
+# Игнорируем системные папки Visual Studio и VS Code
+.vs/
+.vscode/
+.idea/
+
+# Игнорируем временные файлы Flutter
+build/
+.dart_tool/
+.flutter-plugins
