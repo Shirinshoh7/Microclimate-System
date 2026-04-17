@@ -117,8 +117,3 @@ assets/screenshots/
 
 Shirinshoh Badalov
 
----
-
-## 📄 Лицензия
-
-MIT
