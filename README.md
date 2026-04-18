@@ -62,7 +62,7 @@ ESP32 → MQTT → FastAPI → PostgreSQL
 * JWT авторизация
 * Push (FCM)
 
-### AI
+### Прогноз
 
 * Holt-Winters прогнозирование
 * Анализ временных рядов
